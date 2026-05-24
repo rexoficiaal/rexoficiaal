@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Martín Cantero
 
-### Sysadmin · Monitoring N2 · ByRex03
+### Sysadmin · Monitoring N2
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martíncantero)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martiincantero)
@@ -148,14 +148,6 @@ Actualmente me encuentro preparándome para cursar el **Curso de Especializació
 
 ---
 
-## 🎮 Más sobre mí
-
-Además del mundo de los sistemas, soy **creador de contenido** y **streamer** en **Twitch** y **Kick** bajo el handle **ByRex03**, con enfoque en contenido de **GTA V Roleplay**. También soy **administrador y co-líder** de la comunidad de GTA V RP **Eclipse**, junto a mis colegas Momon y Astron.
-
-🎵 Me apasiona la música urbana española, especialmente **Dellafuente**.
-
----
-
 ## 📫 Contacto
 
 <div align="center">
@@ -163,7 +155,7 @@ Además del mundo de los sistemas, soy **creador de contenido** y **streamer** e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martíncantero)
 [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martincantero.it@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visita_mi_web-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://martiincantero.github.io)
-[![Phone](https://img.shields.io/badge/Teléfono-642_881_012-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34642881012)
+
 
 </div>
 
@@ -171,7 +163,6 @@ Además del mundo de los sistemas, soy **creador de contenido** y **streamer** e
 
 <div align="center">
 
-### 💡 "No me gusta quedarme solo en lo que se me asigna. Me involucro, propongo mejoras y busco entender el porqué de las cosas."
 
 [![Visitor Count](https://profile-counter.glitch.me/martiincantero/count.svg)](https://github.com/martiincantero)
 
